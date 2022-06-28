@@ -1,2 +1,2 @@
 # projeto_ima
-Repositório do projeto final da disciplinca intro a machine learning
+Repositório do projeto final da disciplina intro a machine learning
